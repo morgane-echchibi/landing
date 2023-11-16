@@ -1,0 +1,21 @@
+.banner {
+  background-image: url(../../images/Terrasse.jpg);   
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 150px 0;
+}
+
+.banner h1, .banner h2 {
+  color: black;
+}
+
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: 300;
+}
